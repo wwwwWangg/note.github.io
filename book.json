@@ -1,0 +1,15 @@
+{
+    "title": "文刚的笔记",
+    "description": "记录日常工作学习中的问题",
+    "author": "wwengg",
+    "language": "zh-hans",
+    "root": ".",
+    "structure": {
+        "readme": "README.md"
+    },
+    "links": {
+        "sidebar": {
+            "Home": "http://www.wwengg.com"
+        }
+    }
+}
